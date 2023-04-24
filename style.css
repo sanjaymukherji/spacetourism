@@ -1,0 +1,149 @@
+.main-image{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: #0B0D17;
+    top: 0px;
+    bottom: 0px;
+}
+.menu{
+    position: absolute;
+    width: 542px;
+    height: 19px;
+    left: 733px;
+    top: 79px;
+    word-spacing: 1em;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Barlow Condensed';
+    font-weight: 400;
+}
+rectangle1{
+    position: absolute;
+    width: 830px;
+    height: 96px;
+    left: 610px;
+    top: 40px;
+    border: 0px solid green;
+    background: rgba(255, 255, 255, 0.4);
+    
+}
+.rectangle2{
+    position: absolute;
+    width: 473px;
+    height: 1px;
+    left: 167px;
+    top: 88px;
+    border: 0px solid green;
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.25;
+}
+.rectangle3{
+    position: absolute;
+    width: 70px;
+    height: 3px;
+    left: 748px;
+    top: 133px;
+    background: #FFFFFF;
+}
+
+.path{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 55px;
+    top: 64px;
+    
+}
+.oval{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 55px;
+    top: 64px;
+    background: #FFFFFF;
+    border-radius: 50%;
+    
+}
+.textbox-main{
+    position: absolute;
+    width: 450px;
+    height: 382px;
+    left: 165px;
+    top: 387px;
+    border: 0px solid green;
+}
+.textbox1{
+    position: absolute;
+    height: 34px;
+    left: 0.11%;
+    right: 15.67%;
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    color: #D0D6F9;
+    letter-spacing: 4.725px;
+}
+.textbox2{
+    position: absolute;
+    height: 172px;
+    left: 0%;
+    right: 1.11%;
+    font-family: 'Bellefair';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 150px;
+    line-height: 172px;
+    color: #FFFFFF;
+    top: 20px;
+    letter-spacing: 4.725px;
+}
+    .textbox3{
+        position: absolute;
+        height: 128px;
+        left: 0.11%;
+        right: 1.22%;
+        font-family: 'Bellefair';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        color: #D0D6F9;
+        bottom: 10px;
+    }
+    .explore{
+        position: absolute;
+        width: 254px;
+        height: 254px;
+        left: 970px;
+        top: 495px;
+        text-align: center;
+
+    }
+    .oval1{
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+        border-radius: 50%;
+        background: #FFFFFF;
+    }
+    .exploretext{
+        color: #D0D6F9;
+        position: absolute;
+        height: 37px;
+        left: 22.63%;
+        right: 23.36%;
+        top: 122px;
+        color: #0B0D17;
+        font-family: 'Bellefair';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 37px;
+        letter-spacing: 2;
+    }

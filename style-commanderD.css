@@ -1,0 +1,213 @@
+.main-image{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: #0B0D17;
+    top: 0px;
+    bottom: 0px;
+}
+.menu{
+    position: absolute;
+    width: 542px;
+    height: 19px;
+    left: 733px;
+    top: 79px;
+    word-spacing: 1em;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Barlow Condensed';
+    font-weight: 400;
+}
+rectangle1{
+    position: absolute;
+    width: 830px;
+    height: 96px;
+    left: 610px;
+    top: 40px;
+    border: 0 solid green;
+    background: rgba(255, 255, 255, 0.4);
+    
+}
+.rectangle2{
+    position: absolute;
+    width: 473px;
+    height: 1px;
+    left: 167px;
+    top: 88px;
+    border: 0px solid green;
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.25;
+}
+.rectangle3{
+    position: absolute;
+    width: 71px;
+    height: 3px;
+    left: 1020px;
+    top: 133px;
+    background: #FFFFFF;
+}
+
+.path{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 55px;
+    top: 64px;
+    
+}
+.oval{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 55px;
+    top: 64px;
+    background: #FFFFFF;
+    border-radius: 50%;
+    
+}
+.textbox1{
+    position: absolute;
+    width: 500px;
+    height: 34px;
+    left: 166.5px;
+    top: 212px;
+    border: 0px solid green;
+}
+.text2{
+    position: absolute;
+    height: 34px;
+    left: 14.14%;
+    right: 1.57%;
+    top: calc(50% - 34px/2);
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 34px;
+    letter-spacing: 4.725px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.text1{
+    position: absolute;
+    height: 34px;
+    left: 0%;
+    right: 93.19%;
+    top: calc(50% - 34px/2);
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 34px;
+    letter-spacing: 4.725px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.25;
+}
+.FlightEngineer{
+    position: absolute;
+    width: 359px;
+    height: 37px;
+    left: 165.5px;
+    top: 400px;
+    font-family: 'Bellefair';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    /* identical to box height */
+    text-transform: uppercase;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    border: 0px solid green;
+}
+.AnoushehAnsari{
+    position: absolute;
+    width: 700px;
+    height: 64px;
+    left: 165.5px;
+    top: 452px;
+    font-family: 'Bellefair';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 64px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: 0px solid green;
+}
+.EngineerAnoushehAnsari{
+    position: absolute;
+    width: 444px;
+    height: 128px;
+    left: 165px;
+    top: 543px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #D0D6F9;
+}
+.engineerimage{
+    position: absolute;
+    width: 568.07px;
+    height: 712px;
+    left: 734.93px;
+    top: 198px;
+}
+.crewlink{
+    position: absolute;
+    width: 132px;
+    height: 15px;
+    left: 165px;
+    top: 791px;
+}
+.crewA{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    border-radius: 50%;
+    opacity: 0.17;
+}
+.crewB{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 40px;
+    top: 0px;
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    border-radius: 50%;
+    opacity: 0.17;    
+}
+.crewC{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 80px;
+    top: 0px;
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    border-radius: 50%;
+    opacity: 0.17;
+}
+.crewD{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 120px;
+    top: 0px;
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    border-radius: 50%;
+    
+}
